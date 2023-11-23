@@ -1,6 +1,6 @@
 ## Welcome!! 👋
 
-반갑습니다. 3년차 Java/Spring 백엔드 개발자 김민영입니다.
+반갑습니다. 4년차 Java/Spring 백엔드 개발자 김민영입니다.
 
 - email: <mykim8710@gmail.com>
 - blog : <https://mykim8710.tistory.com>
