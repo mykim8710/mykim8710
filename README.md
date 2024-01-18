@@ -3,7 +3,6 @@
 반갑습니다. 4년차 Java/Spring 백엔드 개발자 김민영입니다.
 
 - email: <mykim8710@gmail.com>
-- blog : <https://mykim8710.tistory.com>
 
 <!--
 **mykim8710/mykim8710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
