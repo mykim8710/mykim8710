@@ -3,6 +3,7 @@
 반갑습니다. 4년차 Java/Spring 백엔드 개발자 김민영입니다.
 
 - email: <mykim8710@gmail.com>
+- career description : <https://buttery-nest-688.notion.site/ce4f914d915d4ec2bd457a69d9d95948>
 
 <!--
 **mykim8710/mykim8710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
